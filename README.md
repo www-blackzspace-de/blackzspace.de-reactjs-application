@@ -14,6 +14,7 @@ Hier entsteht eine Internetpräsenz!"
 
 Changelog:
 
+- Adding Video-Streaming Page
 - Adding Login-System
 - Added SearchBar(in progress)
 - Changed NavigationBars Color by Overriding bootstrap-css with tag:" !important"
