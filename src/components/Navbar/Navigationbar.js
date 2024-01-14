@@ -13,9 +13,8 @@ function Navigationbar() {
           <Nav className="me-auto">
             <Nav.Link eventKey="1" as={Link} to="/">Home</Nav.Link>
             <Nav.Link eventKey="2" href="https://board.blackzspace.de/">Board</Nav.Link>
-            <Nav.Link eventKey="3" href="https://element.blackzspace.de/">Matrix</Nav.Link>
-            <Nav.Link eventKey="11" as={Link} to="/stream">Stream</Nav.Link>
-            <Nav.Link eventKey="4" as={Link} to="/news">News</Nav.Link>
+            <Nav.Link eventKey="3" as={Link} to="/news">News</Nav.Link>
+            <Nav.Link eventKey="4" as={Link} to="/stream">Stream</Nav.Link>
             <Nav.Link eventKey="5" as={Link} to="/tutorials">Tutorials</Nav.Link>
             <Nav.Link eventKey="6" as={Link} to="/downloads">Downloads</Nav.Link>
             <Nav.Link eventKey="7" as={Link} to="/projects">Projects</Nav.Link>

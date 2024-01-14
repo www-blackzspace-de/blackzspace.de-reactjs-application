@@ -26,9 +26,8 @@ function App() {
         <Switch>
           <Route exact path="/" component={Root} />
           <Route path="/board" />
-          <Route path="/matrix" />
-          <Route path="/stream" component={Stream} />
           <Route path="/news" component={News} />
+          <Route path="/stream" component={Stream} />
           <Route path="/tutorials" component={Tutorials} />
           <Route path="/downloads" component={Downloads} />
           <Route path="/projects" component={Projects} />
