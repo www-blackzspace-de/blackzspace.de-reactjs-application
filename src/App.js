@@ -7,8 +7,8 @@ import Navigationbar from "./components/Navbar/Navigationbar";
 /* Pages */
 import Root from "./components/Pages/Root";
 import News from "./components/Pages/News";
-import Tutorials from "./components/Pages/Tutorials";
 import Stream from "./components/Pages/Stream";
+import Tutorials from "./components/Pages/Tutorials";
 import Downloads from "./components/Pages/Downloads";
 import Projects from "./components/Pages/Projects";
 import Contact from "./components/Pages/Contact";
